@@ -37,12 +37,3 @@ ul {
   margin-top: 25px;
   margin-bottom: 25px;
 }
-
-div {
-  width: 250px;
-  height: 100px;
-  background-color: #e2c29c;
-  border: 2px solid #8a7e67;
-  padding: 20px;
-  margin: 30px 0;
-}
