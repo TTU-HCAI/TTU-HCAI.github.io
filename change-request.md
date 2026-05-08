@@ -1,4 +1,4 @@
-# Tool: Project Change Request
+# Project Change Request
 
 **Project Name:** Personal Introduction Website  
 **Request By:** Cheri Whalen, M.S. (my CMPA 3301 Instructor)
