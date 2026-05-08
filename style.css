@@ -4,29 +4,44 @@ body {
   font-family: Arial, sans-serif;
   margin: 40px auto;
   line-height: 1.6;
-  /* Added max-width so the text does not stretch too far across the page */
-  max-width: 900px;
+  max-width: 950px;
+}
+
+header {
+  margin-bottom: 30px;
 }
 
 h1 {
   color: #386a20;
+  font-family: Georgia, serif;
   margin-bottom: 10px;
 }
 
 h2 {
   color: #8a7e67;
-  margin-bottom: 20px;
+  margin-top: 30px;
+  margin-bottom: 15px;
 }
 
 p {
   color: #4f4638;
-  /* Added spacing to make the page easier to read */
+  font-family: Arial, sans-serif;
   margin-bottom: 20px;
 }
 
-a {
+nav {
+  margin-bottom: 25px;
+}
+
+nav a {
   color: #386a20;
   font-weight: bold;
+  margin-right: 20px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
 }
 
 ul {
@@ -34,6 +49,11 @@ ul {
   color: #4f4638;
   padding: 20px 35px;
   border-radius: 8px;
-  margin-top: 25px;
+  margin-top: 20px;
   margin-bottom: 25px;
+}
+
+footer {
+  margin-top: 40px;
+  font-size: 0.95rem;
 }
